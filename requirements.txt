@@ -1,0 +1,6 @@
+mss==9.0.1
+numpy==1.23.1
+opencv_python==4.5.5.62
+PyAutoGUI==0.9.54
+screeninfo==0.8.1
+pyinstaller==5.13.0
